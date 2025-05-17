@@ -2,6 +2,7 @@
 - 👀 I’m interested in Quality Assurance and DevOps.
 - 🌱 I’m SDET.
 - 📫 How to reach me: maria@iterative.com
+- More about me in https://iterative.me
 
 <!---
 iterative-me/iterative-me is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
